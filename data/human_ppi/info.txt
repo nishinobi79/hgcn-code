@@ -1,0 +1,36 @@
+label idx = 0
+val_prop, test_prop = 0.15, 0.15
+
+seed = 0001
+test f1 = 0.7178
+
+seed = 0002
+test f1 = 0.7052
+
+seed = 0003
+test f1 = 0.6922
+
+seed = 0004
+test f1 = 0.6947
+
+seed = 0055
+test f1 = 0.7157
+
+seed = 0432
+test f1 = 0.7061
+
+seed = 5610
+test f1 = 0.6897
+
+seed = 5477
+test f1 = 0.7089
+
+seed = 72664
+test f1 = 0.7044
+
+seed = 1675
+test f1 = 0.7063
+
+
+
+
